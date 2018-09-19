@@ -68,4 +68,4 @@
  
     });
  
-        client.login('NDkxNzY3NTQwMDI0OTk5OTU2.DoNeig.xaFYQzzPE-zvncCwYdwaqfHbJjg')
+        client.login(process.env.BOT_TOKEN);
